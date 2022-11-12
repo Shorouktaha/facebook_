@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">facebook</string>
+    <string name="userName">Phone or email</string>
+    <string name="password">password</string>
+    <string name="login">log in</string>
+    <string name="create">Create new facebook account</string>
+    <string name="forget">forget password?</string>
+    <string name="or">__________________________OR______________________</string>
+    <string name="mete">Meta</string>
+    <string name="post">journey of thousand male started with small step.</string>
+    <string name="profile">Shorouk taha</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Chats">chats</string>
+    <string name="status">status</string>
+    <string name="calls">calls</string>
+    <string name="react">reacted to your post "hello girls"</string>
+
+</resources>

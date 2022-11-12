@@ -1,4 +1,4 @@
-package com.example.face2.ui.request;
+package com.example.face2.ui.requestFragment;
 
 import android.view.LayoutInflater;
 import android.view.View;
